@@ -68,6 +68,8 @@
 					</excludes>
 				</configuration>
 			</plugin>
+			<finalname>OCS1
+		</finalname>
 		</plugins>
 	</build>
 
